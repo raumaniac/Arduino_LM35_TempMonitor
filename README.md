@@ -42,4 +42,4 @@ Du an su dung Arduino Uno va 3 cam bien LM35 de do nhiet do tai 3 vi tri khac nh
   - README.md
 
 ## Tac gia
-[Nguyen Tran Trung Linh](https://<username>.github.io) - Sinh vien PTIT
+[Nguyen Tran Trung Linh](https://raumaniac.github.io) - Sinh vien PTIT
