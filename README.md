@@ -41,6 +41,5 @@ Du an su dung Arduino Uno va 3 cam bien LM35 de do nhiet do tai 3 vi tri khac nh
   - .gitignore
   - README.md
 
-## Thanh vien nhom
-- Nguyen Tran Trung Linh - MSSV: N23DCCI040 - Lop: D23CQCI01-N  
-  GitHub: [raumaniac](https://github.com/raumaniac)
+## Tac gia
+[Nguyen Tran Trung Linh](https://<username>.github.io) - Sinh vien PTIT
