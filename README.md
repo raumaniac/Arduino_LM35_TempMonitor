@@ -32,9 +32,9 @@ Du an su dung Arduino Uno va 3 cam bien LM35 de do nhiet do tai 3 vi tri khac nh
 ## Cau truc thu muc
 - Arduino_LM35_TempMonitor/
   - firmware/
-    - LM35_TempReader/
+    - MYMAIN/
   - pc_app/
-    - bin/
+    - WindowsFormsApplication1/
   - docs/
   - libs/
   - simulation/
